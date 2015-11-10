@@ -2,7 +2,7 @@
 IOS 弹出框，类似淘宝菜单弹出框
 如果有更多想法，联系我Q:232190315.
 # 效果图
-![](https://raw.githubusercontent.com/DavidWangTM/DWPOP-UP-IOS/blob/master/pop-up.gif)
+![](https://raw.githubusercontent.com/DavidWangTM/DWPOP-UP-IOS/master/pop-up.gif)
 
 Installation
 --------------
@@ -11,7 +11,7 @@ Installation
 pod 'pop', '~> 1.0'
 ```
 ###xib-view
-![](https://raw.githubusercontent.com/DavidWangTM/DWPOP-UP-IOS/blob/master/back_1.png)
+![](https://raw.githubusercontent.com/DavidWangTM/DWPOP-UP-IOS/master/back_1.png)
 Properties
 --------------
 ```objective-c
