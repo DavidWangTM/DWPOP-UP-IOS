@@ -54,4 +54,8 @@
     }
 }
 
+-(void)setDWBackgroundColor:(UIColor *)color{
+    [self setBackgroundColor:color];
+}
+
 @end

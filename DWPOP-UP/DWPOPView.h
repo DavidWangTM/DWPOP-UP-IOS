@@ -14,4 +14,5 @@
 -(void)setAdapterView:(UIView *)addview;
 -(void)setAdapterView:(UIView *)addview springBounciness:(CGFloat) springBounciness springSpeed:(CGFloat) springSpeed;
 -(void)showanimation;
+-(void)setDWBackgroundColor:(UIColor *)color;
 @end
