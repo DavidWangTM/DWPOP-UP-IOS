@@ -7,10 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DWPOPView.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>
 
 - (IBAction)Onclick:(id)sender;
+
+@property (weak, nonatomic) IBOutlet DWPOPView *popview;
 
 @end
 
